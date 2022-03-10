@@ -16,7 +16,7 @@ while True:
         atsiskaitymo_budas = input("atsiskaitymo budas: ")
         isigyta_preke_paslauga = input("isigyta_preke_paslauga: ")
         biudzetas.prideti_islaidu_irasa(suma, atsiskaitymo_budas, isigyta_preke_paslauga)
-
+#pakeisti
 
     if pasirinkimas == 3:
         biudzetas.parodyti_ataskaita()
